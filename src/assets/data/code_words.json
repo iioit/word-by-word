@@ -1,0 +1,38 @@
+{
+	"Crime": [
+		"murder",
+		"weapon",
+		"gun",
+		"alibi",
+		"arrest",
+		"chase",
+		"killer",
+		"secret",
+		"witness",
+		"lie"
+	],
+	"Fairytale": [
+		"sleep",
+		"magic",
+		"fairy",
+		"princess",
+		"stepmom",
+		"hero",
+		"dragon",
+		"prince",
+		"horse",
+		"woods"
+	],
+	"Scifi": [
+		"avatar",
+		"space",
+		"breach",
+		"force",
+		"galaxy",
+		"microbe",
+		"robots",
+		"stars",
+		"virtual",
+		"probe"
+	]
+}
